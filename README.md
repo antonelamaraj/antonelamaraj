@@ -11,7 +11,8 @@
 ### 🚀 Technologies & Tools
 
 - **Languages**: Java, HTML, CSS
-- **Backend**: Spring Boot
+- **Backend**: Spring Boot, NestJS
+- **Frontend**: React, NextJS 
 - **Databases**: MySQL, Oracle
 - **Cloud**: AWS (Amazon Web Services)
 - **Tools**: Git, GitHub, IntelliJ IDEA, VS Code
